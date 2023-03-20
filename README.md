@@ -11,7 +11,7 @@ A brain
 To use fucksnus create an instant of the class like so:
 
 ```py
-search = SnusbaseSearch(api_key)
+search = FuckSnus(api_key)
 ```
 
 
