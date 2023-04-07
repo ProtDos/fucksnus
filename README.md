@@ -1,3 +1,5 @@
+# IT DOES NOT NEED AN API KEY, IT JUST NEEDS A VALUE AND IT WILL WORK!!
+
 # fucksnus
 
 fucksnus is a Python class that provides a simple interface to search the Snusbase database using its API. The program takes as input a list of search terms and returns a JSON object containing the results of the search as well as additional information retrieved through the API. The results are stored in a file called snusbase_results.json.
